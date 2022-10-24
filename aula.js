@@ -90,6 +90,9 @@ formula do imc
 imc = peso / (altura * altura)
 */
 
+
+
+/*
 const peso = 180;
 const altura = 1.70;
 const imc = peso / Math.pow(altura, 2);
@@ -110,5 +113,15 @@ if(imc < 18.5){
     console.log('Obesidade Grave');
 }
 
+*/
+
+/* 4. Elabore um algoritmo que calcule oque deve ser pago por um produto 
+considerando o preço normal de etiqueta e a escolha da consição de pagamento 
+*/
+
+const precoEtiqueta = 100;
+const formaDePagamento = 1;
+
+if
 
 
