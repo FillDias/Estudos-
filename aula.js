@@ -91,10 +91,10 @@ imc = peso / (altura * altura)
 */
 
 
-
 /*
-const peso = 180;
-const altura = 1.70;
+
+const peso = 95;
+const altura = 1.80;
 const imc = peso / Math.pow(altura, 2);
 console.log (imc);
 
@@ -119,9 +119,26 @@ if(imc < 18.5){
 considerando o preço normal de etiqueta e a escolha da consição de pagamento 
 */
 
-const precoEtiqueta = 100;
-const formaDePagamento = 1;
 
-if
+/*
+const precoEtiqueta = 100;
+const formaDePagamento = 4;
+
+if(formaDePagamento === 1){
+   console.log(precoEtiqueta -(precoEtiqueta * 0.1));
+}else if(formaDePagamento === 2){
+    console.log(precoEtiqueta -(precoEtiqueta * 0.15));
+}else if(formaDePagamento === 3){
+    console.log(precoEtiqueta);
+}else if (formaDePagamento === 4){
+    console.log(precoEtiqueta + (precoEtiqueta * 0.1))
+}
+*/
+
+/////////////////////////////////////////////////////
+
+
+/* funções javaScript*/
+
 
 
